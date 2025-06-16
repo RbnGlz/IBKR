@@ -1,5 +1,6 @@
 from ibapi.client import *
 from ibapi.wrapper import *
+from ibapi.contract import Contract
 from datetime import datetime
 port = 7496
 

@@ -2,6 +2,7 @@ from decimal import Decimal
 from ibapi.client import *
 from ibapi.common import TickerId
 from ibapi.wrapper import *
+from ibapi.contract import Contract
 
 port = 7496
 
