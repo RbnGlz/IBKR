@@ -1,6 +1,7 @@
 from ibapi.client import *
-from ibapi.common import TickAttribBidAsk, TickAttribLast
 from ibapi.wrapper import *
+from ibapi.contract import Contract
+from ibapi.common import TickAttribBidAsk, TickAttribLast
 from datetime import datetime
 port = 7496
 

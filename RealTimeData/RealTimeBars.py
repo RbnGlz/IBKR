@@ -3,6 +3,7 @@ from ibapi.client import *
 from ibapi.common import TickerId
 from ibapi.wrapper import *
 from ibapi.tag_value import *
+from ibapi.contract import Contract
 from datetime import datetime
 
 port = 7496
